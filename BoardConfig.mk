@@ -81,6 +81,7 @@ TW_EXCLUDE_SUPERSU := true
 TW_NEW_ION_HEAP := true
 TW_USE_TOOLBOX := true
 TW_IGNORE_MISC_WIPE_DATA := true
+PB_TORCH_PATH := "/sys/class/leds/led:torch_0"
 
 # Disable Mouse Cursor
 TW_INPUT_BLACKLIST := "hbtp_vm"
